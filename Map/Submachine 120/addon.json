@@ -1,0 +1,11 @@
+{
+    "title" : "gm_submachine_120",
+    "type" : "map",
+    "tags" : [ "build" ],
+    "ignore" :
+    [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*"
+    ]
+}
